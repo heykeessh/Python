@@ -45,7 +45,7 @@ An end-to-end e-commerce analytics capstone evaluating **13,696 completed custom
 
 ---
 
-## 📓 Notebook Pipeline (`YourNotebook.ipynb`)
+## 📓 Notebook Pipeline (`retail_sales_performance.ipynb`)
 
 The primary notebook contains the complete data engineering and statistical analysis pipeline written in Python (`pandas`, `numpy`, `matplotlib`, `seaborn`):
 
@@ -89,23 +89,28 @@ jupyter notebook YourNotebook.ipynb
 
 ### Chart 1: Monthly Realized Net Revenue Trend
 *Tracks monthly cash revenue trajectory across the 25-month transactional window.*
-![Chart 1 - Monthly Revenue Trend](chart1_monthly_revenue_trend.png)
+<img width="1200" height="600" alt="chart1_monthly_revenue_trend" src="https://github.com/user-attachments/assets/2dd6b735-3e33-48ee-9a7e-c8cd5abb9c9a" />
+
 
 ### Chart 2: Net Revenue by Product Category
 *Revenue breakdown across the 8 standardized commercial categories.*
-![Chart 2 - Revenue by Category](chart2_revenue_by_category.png)
+<img width="1080" height="600" alt="chart2_revenue_by_category" src="https://github.com/user-attachments/assets/a7eda0d0-4a6c-4cfd-88cf-a6c01b59a813" />
+
 
 ### Chart 3: Top 10 Regions by Realized Revenue
 *Geographic sales distribution across Philippine administrative regions.*
-![Chart 3 - Top Regions](chart3_revenue_by_region.png)
+<img width="1200" height="600" alt="chart3_revenue_by_region" src="https://github.com/user-attachments/assets/0bf1ac96-9a50-4500-9621-fa2ac5ade68e" />
+
 
 ### Chart 4: Order Value Distribution & Outlier Analysis
 *Histogram and boxplot showing the right-skewed basket spend (Median: ₱380 vs. Mean: ₱455).*
-![Chart 4 - AOV Distribution](chart4_aov_distribution.png)
+<img width="1200" height="720" alt="chart4_aov_distribution" src="https://github.com/user-attachments/assets/c4eaeec5-c655-47a3-bd83-309280dcc0c8" />
+
 
 ### Chart 5: Monthly Cancellations and Returns Trend
 *Fulfillment leakage tracking pre-shipment cancellations versus post-delivery returns.*
-![Chart 5 - Cancellations and Returns](chart5_cancellations_returns_trend.png)
+<img width="1200" height="600" alt="chart5_cancellations_returns_trend" src="https://github.com/user-attachments/assets/079d676b-3a4e-4f5c-9ccc-20d98115f4c4" />
+
 
 ---
 
