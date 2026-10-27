@@ -58,7 +58,7 @@ The primary notebook contains the complete data engineering and statistical anal
 
 ```bash
 # Run the pipeline notebook
-jupyter notebook YourNotebook.ipynb
+jupyter notebook retail_sales_performance.ipynb
 ```
 
 ---
